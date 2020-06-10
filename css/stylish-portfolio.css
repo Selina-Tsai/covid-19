@@ -85,7 +85,7 @@ h6 {
   font-weight: 800;
 }
 
-.covid-19-01 {
+.masthead {
   min-height: 30rem;
   position: relative;
   display: table;
@@ -93,13 +93,13 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-covid-19-01.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-masthead.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-.covid-19-01 h1 {
+.masthead h1 {
   font-size: 4rem;
   margin: 0;
   padding: 0;
